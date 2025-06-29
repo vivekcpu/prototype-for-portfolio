@@ -23,7 +23,7 @@ html,body{
     transition:all cubic-bezier(0.19,1,0.22,1) 0.5s;    
     width:20px;
     height:20px;
-    position:absolute;
+    position:fixed;
     border-radius:50%;
     z-index:99999;
     background-color:#fff;
