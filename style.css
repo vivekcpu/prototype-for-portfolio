@@ -16,6 +16,7 @@ html,body{
 }
 .bound .boundelem{
     transform:translateY(100%);
+    color:#888
 }
 
 
@@ -132,6 +133,7 @@ html,body{
     height:100vh;
     background-color:black;
     padding-bottom:100vh;
+    color:white;
 }
 
 .elem{
